@@ -1,0 +1,11 @@
+Iteracao,Tempo(ns),Nome,Paradigma,Volume
+1,180022600,QuickSort,Serial,1000000
+2,258402000,QuickSort,Serial,1000000
+3,500274100,QuickSort,Serial,1000000
+4,397664900,QuickSort,Serial,1000000
+5,191365500,QuickSort,Serial,1000000
+6,194617600,QuickSort,Serial,1000000
+7,296880400,QuickSort,Serial,1000000
+8,219982700,QuickSort,Serial,1000000
+9,155350400,QuickSort,Serial,1000000
+10,152599200,QuickSort,Serial,1000000

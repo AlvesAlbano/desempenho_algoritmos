@@ -1,0 +1,11 @@
+Iteracao,Tempo(ns),Nome,Paradigma,Volume
+1,223899900,MergeSort,Paralelo,1000000
+2,163303200,MergeSort,Paralelo,1000000
+3,167977600,MergeSort,Paralelo,1000000
+4,123989300,MergeSort,Paralelo,1000000
+5,97920600,MergeSort,Paralelo,1000000
+6,99138900,MergeSort,Paralelo,1000000
+7,142268000,MergeSort,Paralelo,1000000
+8,120459000,MergeSort,Paralelo,1000000
+9,112420400,MergeSort,Paralelo,1000000
+10,96472900,MergeSort,Paralelo,1000000

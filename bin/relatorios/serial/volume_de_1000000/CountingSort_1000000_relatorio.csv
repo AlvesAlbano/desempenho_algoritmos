@@ -1,0 +1,11 @@
+Iteracao,Tempo(ns),Nome,Paradigma,Volume
+1,154207700,CountingSort,Serial,1000000
+2,74949700,CountingSort,Serial,1000000
+3,52884600,CountingSort,Serial,1000000
+4,58709500,CountingSort,Serial,1000000
+5,64925300,CountingSort,Serial,1000000
+6,75286900,CountingSort,Serial,1000000
+7,115295800,CountingSort,Serial,1000000
+8,86798900,CountingSort,Serial,1000000
+9,61117900,CountingSort,Serial,1000000
+10,63762600,CountingSort,Serial,1000000
