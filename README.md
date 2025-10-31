@@ -140,24 +140,24 @@ comportamento experimental aproxima-se da complexidade teórica esperada para o 
 analisado.
 
 ### Tamanho da Amostra: 5.000 elementos
-![imagem](src\imagens\5k_serial.png)
-![imagem](src\imagens\5k_paralelo.png)
+![imagem](./src/imagens/5k_serial.png)
+![imagem](./src/imagens/5k_paralelo.png)
 
 ### Tamanho da Amostra: 50.000 elementos
-![imagem](src\imagens\50k_serial.png)
-![imagem](src\imagens\50k_paralelo.png)
+![imagem](./src/imagens/50k_serial.png)
+![imagem](./src/imagens/50k_paralelo.png)
 
 ### Tamanho da Amostra: 100.000 elementos
-![imagem](src\imagens\100k_serial.png)
-![imagem](src\imagens\100k_paralelo.png)
+![imagem](./src/imagens/100k_serial.png)
+![imagem](./src/imagens/100k_paralelo.png)
 
 ### Tamanho da Amostra: 500.000 elementos
-![imagem](src\imagens\500k_serial.png)
-![imagem](src\imagens\500k_paralelo.png)
+![imagem](./src/imagens/500k_serial.png)
+![imagem](./src/imagens/500k_paralelo.png)
 
 ### Tamanho da Amostra: 1.000.000 elementos
-![imagem](src\imagens\1m_serial.png)
-![imagem](src\imagens\1m_paralelo.png)
+![imagem](./src/imagens/1m_serial.png)
+![imagem](./src/imagens/1m_paralelo.png)
 
 # Conclusão
 
