@@ -57,5 +57,5 @@ def gerar_grafico(pasta):
 pasta_serial = Path("src/relatorios/serial")
 pasta_paralelo = Path("src/relatorios/paralelo")
 
-# gerar_grafico(pasta_serial)
+gerar_grafico(pasta_serial)
 gerar_grafico(pasta_paralelo)
