@@ -89,7 +89,7 @@ public class Main {
                 ehSerial = opcao == 1 ? true : false;
                 
                 executarAlgoritmos(ehSerial, quantidadeThreads, iteracoes);
-                gerarGraficos();
+                // gerarGraficos();
             } while (true);
         }
     }
