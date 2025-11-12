@@ -128,7 +128,6 @@ public class CountingSort {
         protected void compute() {
             
             if (fim - inicio <= tamanhoTarefa){
-            // System.out.println("serialfds");
                 for (int i = inicio + 1; i < fim; i++) {
                     lista[i] += lista[i-1];
                 }
