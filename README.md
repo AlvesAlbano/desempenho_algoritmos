@@ -1,6 +1,29 @@
 Integrantes: Samir Alves, Leonardo Coelho
 link do github: https://github.com/AlvesAlbano/desempenho_algoritmos
 
+# Como Usar
+
+Ao executar o arquivo ``Main.java``, informe na linha de comando os seguintes parâmetros, nesta ordem:
+
+1. **Quantidade de iterações de cada algoritmo;**
+
+2. **Quantidade de threads a serem utilizadas;**
+
+3. **Tipo de execução, podendo ser:**
+
+    **``serial`` — para execução sequencial;**
+
+    **``paralelo`` — para execução em múltiplas threads.**
+
+![imagem](./src/imagens/exemplo.jpg)
+
+Após a conclusão da execução dos algoritmos, será gerado um **arquivo CSV** contendo os resultados.
+Esse arquivo pode ser utilizado para visualizar os dados em forma de gráfico através do script ``graficos.py``.
+
+Para visualzar os gráficos, execute no terminal:
+
+``python graficos.py``
+
 # Resumo
 
 Este estudo de caso analisa os impactos de threads na eficiência de quatro algoritmos de
